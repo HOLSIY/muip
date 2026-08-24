@@ -1,5 +1,50 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Senaf and I'm a Software engineer, from Addis </h2>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ANIMATED HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=SENAF%20WONDIMMU&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Founder&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Android+Developer+%F0%9F%93%B1;AI+%26+Technology+Builder+%F0%9F%A4%96;Founder+of+AETORA+Technologies+%F0%9F%94%A5;Turning+Ideas+Into+Products+%E2%9A%A1"/>
+
+<br><br>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           ABOUT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ `BUILD • LEARN • SHIP • REPEAT`
+
+</div>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👨‍💻  Software Engineering                                │
+│   🚀  Full-Stack Development                                │
+│   📱  Android / Kotlin                                      │
+│   🤖  AI & Modern Technology                                │
+│   🏗️  Product Building                                     │
+│   🌍  Ethiopia → Global                                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
